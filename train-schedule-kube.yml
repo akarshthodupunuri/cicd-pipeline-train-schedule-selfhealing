@@ -40,4 +40,4 @@ spec:
             path: /
           initialDelaySeconds: 15
           timeoutSeconds: 1
-          PeriodSeconds: 10
+          periodSeconds: 10
